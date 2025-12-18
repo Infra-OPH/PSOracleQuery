@@ -1,6 +1,9 @@
 # Update in this Fork
 I update the code, to only change TNS_ADMIN env variable when you don't use User/password credential , and use Windows Authentication (need Oracle client)
-Debug for : Exception calling "Fill" with "1" argument(s): "Oracle communication: connection to the server failed or the connect string could not be parsed."
+
+Debug for : 
+Exception calling "Fill" with "1" argument(s): "Oracle communication: connection to the server failed or the connect string could not be parsed."
+
 In French : Exception lors de l'appel de « Fill » avec « 1 » argument(s) : « Communication Oracle : échec de la connexion au serveur ou échec de l'analyse de la chaîne de connexion »
 
 # Invoke-OracleQuery
